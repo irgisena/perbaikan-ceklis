@@ -1,2 +1,4 @@
 nama : irgi
 tempat asal : purbalingga
+cita-cita : programmer
+hobi : futsal
